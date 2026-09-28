@@ -25,7 +25,7 @@ I am currently focusing on JavaScript, React, and Next.js while building real-wo
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/radoain-islam-miyad-16a95a367/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="https://github.com/radoain08">
